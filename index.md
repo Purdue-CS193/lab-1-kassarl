@@ -1,11 +1,11 @@
 # Laila Kassar's first CS193 Lab
 ```markdown
 My favorite things about Purdue in a bullet list 
--WALC
--Food
--People
--Bowling 
--Summer Vacation
+*WALC
+*Food
+*People
+*Bowling 
+*Summer Vacation
 ```
 
 
